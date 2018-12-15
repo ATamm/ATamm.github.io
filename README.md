@@ -13,7 +13,7 @@ I began work on this during Fall 2018 and im still currently developing this.
 
 ### Resume 
 1255 Race St. # Denver, CO 802016 Phone # 760-415-9241
-**Adam Tammariello**
+-**Adam Tammariello**
 
 **Education:**
 
