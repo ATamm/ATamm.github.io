@@ -27,10 +27,15 @@ Coursework: -Intro to Music Technology, Topics in Music Technology,  Music Theor
 **Skills:**
 
 -Python, C, C++, GitHub, Geany, GDB, Code::Blocks, Windows, Linux, Mac OS, Oracle VM, Logic Pro X, Reason 8,  Garage Band,  Audacity,  - SuperCollider,  Ableton
+
 -Public speaking skills as a morning show host for KVCU
+
 -Originalization skills as manager at KVCU
+
 -Knowledge of different audio formats and stereo equipment
+
 -Motivated team player with excellent verbal and written communication skills
+
 -Quick learner 
 
 **Employment**
