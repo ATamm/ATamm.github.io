@@ -1,6 +1,6 @@
 ## About Me 
-
-I'm CS student at the University of Colorado Boulder. My interests are in back-end development, as well as some from ent development.
+![image]
+I'm CS student at the University of Colorado Boulder. My interests are in back-end development, as well as some front end development.
 
 ## Personal Projects
 ### Past Projects
