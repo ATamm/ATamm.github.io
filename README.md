@@ -1,5 +1,5 @@
 ## About Me 
-![alt text]({{https://atamm.github.io/}}/assets/profile_picture.png)
+![alt text](https://github.com/ATamm/ATamm.github.io/blob/master/assets/profile_picture.png)
 
 I'm CS student at the University of Colorado Boulder. My interests are in back-end development, as well as some front end development.
 
