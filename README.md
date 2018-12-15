@@ -15,7 +15,7 @@ I began work on this during Fall 2018 and im still currently developing this.
 1255 Race St. # Denver, CO 802016 Phone # 760-415-9241
 -**Adam Tammariello**
 
-####**Education:**
+####Education:
 
 	University of Colorado, Boulder – August 2014 - present
 	Major: Computer Science
@@ -23,7 +23,7 @@ I began work on this during Fall 2018 and im still currently developing this.
 
 Coursework: -Intro to Music Technology, Topics in Music Technology,  Music Theory
             -Intro to Programming, Data Structures, Computer Systems, Discrete Structures, Algorithms, Data Mining, Database Systems
-####**Skills:**
+####Skills:
 -Python, C, C++, GitHub, Geany, GDB, Code::Blocks, Windows, Linux, Mac OS, Oracle VM, Logic Pro X, Reason 8,  Garage Band,  Audacity,  - SuperCollider,  Ableton
 -Public speaking skills as a morning show host for KVCU
 -Originalization skills as manager at KVCU
