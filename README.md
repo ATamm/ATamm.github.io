@@ -15,7 +15,7 @@ I began work on this during Fall 2018 and im still currently developing this.
 1255 Race St. # Denver, CO 802016 Phone # 760-415-9241
 -**Adam Tammariello**
 
-**Education:**
+####**Education:**
 
 	University of Colorado, Boulder – August 2014 - present
 	Major: Computer Science
@@ -23,7 +23,7 @@ I began work on this during Fall 2018 and im still currently developing this.
 
 Coursework: -Intro to Music Technology, Topics in Music Technology,  Music Theory
             -Intro to Programming, Data Structures, Computer Systems, Discrete Structures, Algorithms, Data Mining, Database Systems
-**Skills:**
+####**Skills:**
 -Python, C, C++, GitHub, Geany, GDB, Code::Blocks, Windows, Linux, Mac OS, Oracle VM, Logic Pro X, Reason 8,  Garage Band,  Audacity,  - SuperCollider,  Ableton
 -Public speaking skills as a morning show host for KVCU
 -Originalization skills as manager at KVCU
@@ -31,7 +31,7 @@ Coursework: -Intro to Music Technology, Topics in Music Technology,  Music Theor
 -Motivated team player with excellent verbal and written communication skills
 -Quick learner 
 
-**Employment**
+####**Employment**
 October 2015 - Present		First Base Tapes           Boulder CO
 Co-Founder/Social Media Director – Co-founded and helped launch an independent cassette label.  In charge of social media presence as well as marketing strategy for releases and events. 
 
@@ -43,11 +43,11 @@ Program Manager - Resposnisble for the assignment of DJ and specialty shows, as 
 June 2018 - Present Twist and Shout Records                     Denver,CO
 retail associate in charge of customer service and product transactions in the store.
 	
-**Internships:**
+####**Internships:**
 June 2013 - June 2014
 San Diego Cognitive Behavioral Therapy Consortium - Responsibilities included: 	Researching and establishing social media presence for organization. and presenting work at meetings of the executive board.
 
-**Volunteer Service:**
+####**Volunteer Service:**
  	January 2015-	June 2015
 Radio 1190 KVCU Boulder - Activities included: DJ, event and station promotions, CD reviews, and Artist interviews.
 
